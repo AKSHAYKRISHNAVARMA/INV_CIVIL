@@ -17428,8 +17428,8 @@ section {
 
 @media (min-width: 992px) {
   section {
-    padding-top:0rem;
-    padding-bottom:0 rem;
+    padding-top:0.5 rem;
+    padding-bottom:0.5 rem;
   }
 }
 
