@@ -17003,8 +17003,8 @@ pre, code {
 
 section {
   position: relative;
-  padding-top: 4rem;
-  padding-bottom: 4rem;
+  padding-top: 0rem;
+  padding-bottom: 0rem;
 }
 
 @media (min-width: 992px) {
